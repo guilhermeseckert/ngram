@@ -20,7 +20,7 @@ $ yarn install
 $ yarn test
 ```
 
-execute 
+Execute 
 
 ```javascript
 $ yarn dev
